@@ -1,6 +1,6 @@
 Locale                          = Locale or {}
 
-Locale.en = { -- 'fr' is the reference that will be used for 'Config.Language'
+Locale.en = { -- 'en' is the reference that will be used for 'Config.Language'
 	StandaloneLapText			= "Ask for a lap dance", -- Set the text that will be displayed above marker if 'Config.Framework' is set to 'standalone'
 	LapText						= "Buy a lap dance (~g~%$~w~)", -- Set the text that will be displayed above marker
 	BoughtLapdance				= "You just bought a lap dance for %$", -- Notification text when a lap dance is bought
